@@ -1,12 +1,13 @@
 <html>
- <head><style>video {
+ <head>
+  <style>video {
   position: absolute;
   top: 0;
   left: 0;
   z-index: 1;
   max-height: 100%;
   min-width: 100%;
-}</style></head>
+}</style>
 <body>
 
  <video width="320" height="240" controls autoplay>
@@ -15,4 +16,5 @@
 </video> 
   
 </body>
+</head>
 </html>
